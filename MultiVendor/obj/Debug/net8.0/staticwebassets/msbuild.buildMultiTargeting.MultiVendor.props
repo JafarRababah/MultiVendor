@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MultiVendor.props" />
+</Project>
